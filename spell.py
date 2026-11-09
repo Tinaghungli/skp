@@ -1,2 +1,3 @@
-power=5
-print(f"Сила: {power}")
+
+power=999
+
