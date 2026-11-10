@@ -1,3 +1,3 @@
 
-power=999
+power=777
 
